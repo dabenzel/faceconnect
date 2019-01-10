@@ -8,7 +8,7 @@
       'Remember_Me' => 'Remember Me',
       'Forgot_Your_Password?' =>'Forgot Your Password?',
       'Login' => 'Login',
-   	  'Name' => 'Name',
+   	'Name' => 'Name',
       'E_Mail_Address'=> 'E-Mail Address',
       'Confirm_Password' => 'Confirm Password',
       'Date_of_Birth' => 'Date of Birth',
@@ -33,19 +33,6 @@
       'other_comments' =>'Other comments',
       'Loading_More_post' => 'Loading More posts...',
       'Are_You_sure'=>'Are You Sure ?',
-    'amdin_panel'=>'Admin Panel',
-
-
-
-
-
-
-
-
-
-
-
-
-
-   ];
+      'admin_panel'=>'Admin Panel',
+];
 ?>
