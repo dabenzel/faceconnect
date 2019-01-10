@@ -32,6 +32,6 @@
       'Update' => 'ثبت',
       'other_comments' =>'دیگر نظریات',
       'Loading_More_post' => 'جستجوی دیگر پوست ها...',
-      'amdin_panel'=>'ادمین',
+      'admin_panel'=>'ادمین',
    ];
 ?>
