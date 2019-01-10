@@ -76,7 +76,7 @@ s
         </nav>  
         <div class="container">
             <div class="col-md-8 col-md-offset-2" >
-                <h1 class="adminP">{{ trans('lang.amdin_panel') }}</h1>
+                <h1 class="adminP">{{ trans('lang.admin_panel') }}</h1>
             </div>
         </div>
     </div>
